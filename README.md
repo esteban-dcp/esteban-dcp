@@ -169,11 +169,11 @@ Maintained institutional web infrastructure while collaborating with internation
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=esteban-dcp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=esteban-dcp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=esteban-dcp&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=esteban-dcp&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esteban-dcp&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=esteban-dcp&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -183,7 +183,7 @@ Maintained institutional web infrastructure while collaborating with internation
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=esteban-dcp&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-trophies.vercel.app/?username=esteban-dcp"/>
 
 </div>
 
@@ -204,9 +204,18 @@ Maintained institutional web infrastructure while collaborating with internation
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/esteban-dcp/esteban-dcp/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/esteban-dcp/esteban-dcp/output/github-contribution-grid-snake.svg">
-<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/esteban-dcp/esteban-dcp/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/esteban-dcp/esteban-dcp/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/esteban-dcp/esteban-dcp/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/esteban-dcp/esteban-dcp/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 </div>
@@ -443,6 +452,6 @@ Technology evolves rapidly, and I am committed to continuously learning new prog
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:312E81,30:4F46E5,60:6D28D9,100:7C3AED"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:022C22,30:065F46,60:059669,100:10B981"/>
 
 </div>
